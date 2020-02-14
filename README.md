@@ -1,4 +1,4 @@
-# Linear-Regression-ML-Project-
-This is a beginner ML project for understanding the ML regression model working principle(Including very very small dataset).
-The main aim of this ML project is to give an idea about how ML work.
-This ML project only for the beginner, who have no/minimum idea about the working principle of Machine Learning.
+# Potato-Price-Artificial-Neural-Network
+This is a beginner Artificial Neural Network project for understanding the Artificial Neural Network regression model working principle(Including very very small dataset).
+The main aim of this Artificial Neural Network project is to give an idea about how Artificial Neural Network work.
+This Artificial Neural Network project only for the beginner, who have no/minimum idea about the working principle of Artificial Neural Network.
